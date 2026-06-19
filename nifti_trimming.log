@@ -1,0 +1,1131 @@
+18:28:17 [INFO] ▶️ Trimming sub-01
+18:28:17 [INFO] 🔍 Searching for NIfTI for sub-01, run 1
+18:28:17 [INFO] ✅ Found NIfTI file: sub-01_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:28:17 [INFO] 🔍 Searching for NIfTI for sub-01, run 2
+18:28:17 [INFO] ✅ Found NIfTI file: sub-01_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:28:17 [INFO] 🔍 Searching for NIfTI for sub-01, run 3
+18:28:17 [INFO] ✅ Found NIfTI file: sub-01_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:28:17 [INFO] 🔍 Searching for NIfTI for sub-01, run 4
+18:28:17 [INFO] ✅ Found NIfTI file: sub-01_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:28:17 [INFO] 🔍 Searching for NIfTI for sub-01, run 5
+18:28:17 [INFO] ✅ Found NIfTI file: sub-01_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:28:17 [INFO] 🔮 extracting frame count for sub-01, run 1
+18:28:17 [INFO] 🟪 frame count = 298
+18:28:17 [INFO] 🔮 extracting frame count for sub-01, run 2
+18:28:17 [INFO] 🟪 frame count = 299
+18:28:17 [INFO] 🔮 extracting frame count for sub-01, run 3
+18:28:17 [INFO] 🟪 frame count = 295
+18:28:17 [INFO] 🔮 extracting frame count for sub-01, run 4
+18:28:17 [INFO] 🟪 frame count = 295
+18:28:17 [INFO] 🔮 extracting frame count for sub-01, run 5
+18:28:17 [INFO] 🟪 frame count = 297
+18:28:27 [INFO] ✔️ Trimmed run 1 for sub-01, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-01/trimmed_bold_run1.nii.gz
+18:28:37 [INFO] ✔️ Trimmed run 2 for sub-01, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-01/trimmed_bold_run2.nii.gz
+18:28:47 [INFO] ✔️ Trimmed run 3 for sub-01, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-01/trimmed_bold_run3.nii.gz
+18:28:57 [INFO] ✔️ Trimmed run 4 for sub-01, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-01/trimmed_bold_run4.nii.gz
+18:29:08 [INFO] ✔️ Trimmed run 5 for sub-01, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-01/trimmed_bold_run5.nii.gz
+18:29:08 [INFO] ▶️ Trimming sub-02
+18:29:08 [INFO] 🔍 Searching for NIfTI for sub-02, run 1
+18:29:08 [INFO] ✅ Found NIfTI file: sub-02_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:29:08 [INFO] 🔍 Searching for NIfTI for sub-02, run 2
+18:29:08 [INFO] ✅ Found NIfTI file: sub-02_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:29:08 [INFO] 🔍 Searching for NIfTI for sub-02, run 3
+18:29:08 [INFO] ✅ Found NIfTI file: sub-02_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:29:08 [INFO] 🔍 Searching for NIfTI for sub-02, run 4
+18:29:08 [INFO] ✅ Found NIfTI file: sub-02_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:29:08 [INFO] 🔍 Searching for NIfTI for sub-02, run 5
+18:29:08 [INFO] ✅ Found NIfTI file: sub-02_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:29:08 [INFO] 🔮 extracting frame count for sub-02, run 1
+18:29:08 [INFO] 🟪 frame count = 296
+18:29:08 [INFO] 🔮 extracting frame count for sub-02, run 2
+18:29:08 [INFO] 🟪 frame count = 297
+18:29:08 [INFO] 🔮 extracting frame count for sub-02, run 3
+18:29:08 [INFO] 🟪 frame count = 297
+18:29:08 [INFO] 🔮 extracting frame count for sub-02, run 4
+18:29:08 [INFO] 🟪 frame count = 297
+18:29:08 [INFO] 🔮 extracting frame count for sub-02, run 5
+18:29:08 [INFO] 🟪 frame count = 296
+18:29:18 [INFO] ✔️ Trimmed run 1 for sub-02, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-02/trimmed_bold_run1.nii.gz
+18:29:29 [INFO] ✔️ Trimmed run 2 for sub-02, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-02/trimmed_bold_run2.nii.gz
+18:29:39 [INFO] ✔️ Trimmed run 3 for sub-02, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-02/trimmed_bold_run3.nii.gz
+18:29:50 [INFO] ✔️ Trimmed run 4 for sub-02, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-02/trimmed_bold_run4.nii.gz
+18:30:00 [INFO] ✔️ Trimmed run 5 for sub-02, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-02/trimmed_bold_run5.nii.gz
+18:30:00 [INFO] ▶️ Trimming sub-03
+18:30:00 [INFO] 🔍 Searching for NIfTI for sub-03, run 1
+18:30:00 [INFO] ✅ Found NIfTI file: sub-03_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:00 [INFO] 🔍 Searching for NIfTI for sub-03, run 2
+18:30:00 [INFO] ✅ Found NIfTI file: sub-03_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:00 [INFO] 🔍 Searching for NIfTI for sub-03, run 3
+18:30:00 [INFO] ✅ Found NIfTI file: sub-03_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:00 [INFO] 🔍 Searching for NIfTI for sub-03, run 4
+18:30:00 [INFO] ✅ Found NIfTI file: sub-03_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:00 [INFO] 🔍 Searching for NIfTI for sub-03, run 5
+18:30:00 [INFO] ✅ Found NIfTI file: sub-03_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:00 [INFO] 🔮 extracting frame count for sub-03, run 1
+18:30:00 [INFO] 🟪 frame count = 297
+18:30:00 [INFO] 🔮 extracting frame count for sub-03, run 2
+18:30:00 [INFO] 🟪 frame count = 297
+18:30:00 [INFO] 🔮 extracting frame count for sub-03, run 3
+18:30:00 [INFO] 🟪 frame count = 297
+18:30:00 [INFO] 🔮 extracting frame count for sub-03, run 4
+18:30:00 [INFO] 🟪 frame count = 296
+18:30:00 [INFO] 🔮 extracting frame count for sub-03, run 5
+18:30:00 [INFO] 🟪 frame count = 297
+18:30:11 [INFO] ✔️ Trimmed run 1 for sub-03, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-03/trimmed_bold_run1.nii.gz
+18:30:21 [INFO] ✔️ Trimmed run 2 for sub-03, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-03/trimmed_bold_run2.nii.gz
+18:30:31 [INFO] ✔️ Trimmed run 3 for sub-03, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-03/trimmed_bold_run3.nii.gz
+18:30:42 [INFO] ✔️ Trimmed run 4 for sub-03, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-03/trimmed_bold_run4.nii.gz
+18:30:52 [INFO] ✔️ Trimmed run 5 for sub-03, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-03/trimmed_bold_run5.nii.gz
+18:30:52 [INFO] ▶️ Trimming sub-04
+18:30:52 [INFO] 🔍 Searching for NIfTI for sub-04, run 1
+18:30:52 [INFO] ✅ Found NIfTI file: sub-04_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:52 [INFO] 🔍 Searching for NIfTI for sub-04, run 2
+18:30:52 [INFO] ✅ Found NIfTI file: sub-04_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:52 [INFO] 🔍 Searching for NIfTI for sub-04, run 3
+18:30:52 [INFO] ✅ Found NIfTI file: sub-04_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:52 [INFO] 🔍 Searching for NIfTI for sub-04, run 4
+18:30:52 [INFO] ✅ Found NIfTI file: sub-04_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:52 [INFO] 🔍 Searching for NIfTI for sub-04, run 5
+18:30:52 [INFO] ✅ Found NIfTI file: sub-04_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:30:52 [INFO] 🔮 extracting frame count for sub-04, run 1
+18:30:52 [INFO] 🟪 frame count = 298
+18:30:52 [INFO] 🔮 extracting frame count for sub-04, run 2
+18:30:52 [INFO] 🟪 frame count = 298
+18:30:52 [INFO] 🔮 extracting frame count for sub-04, run 3
+18:30:52 [INFO] 🟪 frame count = 297
+18:30:52 [INFO] 🔮 extracting frame count for sub-04, run 4
+18:30:52 [INFO] 🟪 frame count = 295
+18:30:52 [INFO] 🔮 extracting frame count for sub-04, run 5
+18:30:52 [INFO] 🟪 frame count = 297
+18:31:02 [INFO] ✔️ Trimmed run 1 for sub-04, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-04/trimmed_bold_run1.nii.gz
+18:31:12 [INFO] ✔️ Trimmed run 2 for sub-04, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-04/trimmed_bold_run2.nii.gz
+18:31:22 [INFO] ✔️ Trimmed run 3 for sub-04, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-04/trimmed_bold_run3.nii.gz
+18:31:31 [INFO] ✔️ Trimmed run 4 for sub-04, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-04/trimmed_bold_run4.nii.gz
+18:31:41 [INFO] ✔️ Trimmed run 5 for sub-04, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-04/trimmed_bold_run5.nii.gz
+18:31:41 [INFO] ▶️ Trimming sub-05
+18:31:41 [INFO] 🔍 Searching for NIfTI for sub-05, run 1
+18:31:41 [INFO] ✅ Found NIfTI file: sub-05_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:31:41 [INFO] 🔍 Searching for NIfTI for sub-05, run 2
+18:31:41 [INFO] ✅ Found NIfTI file: sub-05_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:31:41 [INFO] 🔍 Searching for NIfTI for sub-05, run 3
+18:31:41 [INFO] ✅ Found NIfTI file: sub-05_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:31:41 [INFO] 🔍 Searching for NIfTI for sub-05, run 4
+18:31:41 [INFO] ✅ Found NIfTI file: sub-05_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:31:41 [INFO] 🔍 Searching for NIfTI for sub-05, run 5
+18:31:41 [INFO] ✅ Found NIfTI file: sub-05_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:31:41 [INFO] 🔮 extracting frame count for sub-05, run 1
+18:31:41 [INFO] 🟪 frame count = 298
+18:31:41 [INFO] 🔮 extracting frame count for sub-05, run 2
+18:31:41 [INFO] 🟪 frame count = 296
+18:31:41 [INFO] 🔮 extracting frame count for sub-05, run 3
+18:31:41 [INFO] 🟪 frame count = 298
+18:31:41 [INFO] 🔮 extracting frame count for sub-05, run 4
+18:31:41 [INFO] 🟪 frame count = 296
+18:31:41 [INFO] 🔮 extracting frame count for sub-05, run 5
+18:31:41 [INFO] 🟪 frame count = 294
+18:31:52 [INFO] ✔️ Trimmed run 1 for sub-05, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-05/trimmed_bold_run1.nii.gz
+18:32:02 [INFO] ✔️ Trimmed run 2 for sub-05, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-05/trimmed_bold_run2.nii.gz
+18:32:13 [INFO] ✔️ Trimmed run 3 for sub-05, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-05/trimmed_bold_run3.nii.gz
+18:32:23 [INFO] ✔️ Trimmed run 4 for sub-05, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-05/trimmed_bold_run4.nii.gz
+18:32:34 [INFO] ✔️ Trimmed run 5 for sub-05, length=294, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-05/trimmed_bold_run5.nii.gz
+18:32:34 [INFO] ▶️ Trimming sub-06
+18:32:34 [INFO] 🔍 Searching for NIfTI for sub-06, run 1
+18:32:34 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:32:34 [INFO] 🔍 Searching for NIfTI for sub-06, run 2
+18:32:34 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:32:34 [INFO] 🔍 Searching for NIfTI for sub-06, run 3
+18:32:34 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:32:34 [INFO] 🔍 Searching for NIfTI for sub-06, run 4
+18:32:34 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:32:34 [INFO] 🔍 Searching for NIfTI for sub-06, run 5
+18:32:34 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:32:34 [INFO] 🔮 extracting frame count for sub-06, run 1
+18:32:34 [ERROR] ❌ frame count is 0 for sub-06, run 1
+18:41:19 [INFO] ▶️ Trimming sub-06
+18:41:19 [INFO] 🔍 Searching for NIfTI for sub-06, run 1
+18:41:19 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:41:19 [INFO] 🔍 Searching for NIfTI for sub-06, run 2
+18:41:19 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:41:19 [INFO] 🔍 Searching for NIfTI for sub-06, run 3
+18:41:19 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:41:19 [INFO] 🔍 Searching for NIfTI for sub-06, run 4
+18:41:19 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:41:19 [INFO] 🔍 Searching for NIfTI for sub-06, run 5
+18:41:19 [INFO] ✅ Found NIfTI file: sub-06_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:41:19 [INFO] 🔮 extracting frame count for sub-06, run 1
+18:41:19 [INFO] 🟪 frame count = 296
+18:41:19 [INFO] 🔮 extracting frame count for sub-06, run 2
+18:41:19 [INFO] 🟪 frame count = 295
+18:41:19 [INFO] 🔮 extracting frame count for sub-06, run 3
+18:41:19 [INFO] 🟪 frame count = 298
+18:41:19 [INFO] 🔮 extracting frame count for sub-06, run 4
+18:41:19 [INFO] 🟪 frame count = 297
+18:41:19 [INFO] 🔮 extracting frame count for sub-06, run 5
+18:41:19 [INFO] 🟪 frame count = 298
+18:41:29 [INFO] ✔️ Trimmed run 1 for sub-06, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-06/trimmed_bold_run1.nii.gz
+18:41:39 [INFO] ✔️ Trimmed run 2 for sub-06, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-06/trimmed_bold_run2.nii.gz
+18:41:49 [INFO] ✔️ Trimmed run 3 for sub-06, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-06/trimmed_bold_run3.nii.gz
+18:41:59 [INFO] ✔️ Trimmed run 4 for sub-06, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-06/trimmed_bold_run4.nii.gz
+18:42:10 [INFO] ✔️ Trimmed run 5 for sub-06, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-06/trimmed_bold_run5.nii.gz
+18:42:10 [INFO] ▶️ Trimming sub-07
+18:42:10 [INFO] 🔍 Searching for NIfTI for sub-07, run 1
+18:42:10 [INFO] ✅ Found NIfTI file: sub-07_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:42:10 [INFO] 🔍 Searching for NIfTI for sub-07, run 2
+18:42:10 [INFO] ✅ Found NIfTI file: sub-07_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:42:10 [INFO] 🔍 Searching for NIfTI for sub-07, run 3
+18:42:10 [INFO] ✅ Found NIfTI file: sub-07_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:42:10 [INFO] 🔍 Searching for NIfTI for sub-07, run 4
+18:42:10 [INFO] ✅ Found NIfTI file: sub-07_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:42:10 [INFO] 🔍 Searching for NIfTI for sub-07, run 5
+18:42:10 [INFO] ✅ Found NIfTI file: sub-07_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:42:10 [INFO] 🔮 extracting frame count for sub-07, run 1
+18:42:10 [INFO] 🟪 frame count = 298
+18:42:10 [INFO] 🔮 extracting frame count for sub-07, run 2
+18:42:10 [INFO] 🟪 frame count = 299
+18:42:10 [INFO] 🔮 extracting frame count for sub-07, run 3
+18:42:10 [INFO] 🟪 frame count = 299
+18:42:10 [INFO] 🔮 extracting frame count for sub-07, run 4
+18:42:10 [INFO] 🟪 frame count = 298
+18:42:10 [INFO] 🔮 extracting frame count for sub-07, run 5
+18:42:10 [INFO] 🟪 frame count = 296
+18:42:20 [INFO] ✔️ Trimmed run 1 for sub-07, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-07/trimmed_bold_run1.nii.gz
+18:42:30 [INFO] ✔️ Trimmed run 2 for sub-07, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-07/trimmed_bold_run2.nii.gz
+18:42:41 [INFO] ✔️ Trimmed run 3 for sub-07, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-07/trimmed_bold_run3.nii.gz
+18:42:51 [INFO] ✔️ Trimmed run 4 for sub-07, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-07/trimmed_bold_run4.nii.gz
+18:43:01 [INFO] ✔️ Trimmed run 5 for sub-07, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-07/trimmed_bold_run5.nii.gz
+18:43:01 [INFO] ▶️ Trimming sub-08
+18:43:01 [INFO] 🔍 Searching for NIfTI for sub-08, run 1
+18:43:01 [INFO] ✅ Found NIfTI file: sub-08_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:01 [INFO] 🔍 Searching for NIfTI for sub-08, run 2
+18:43:01 [INFO] ✅ Found NIfTI file: sub-08_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:01 [INFO] 🔍 Searching for NIfTI for sub-08, run 3
+18:43:01 [INFO] ✅ Found NIfTI file: sub-08_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:01 [INFO] 🔍 Searching for NIfTI for sub-08, run 4
+18:43:01 [INFO] ✅ Found NIfTI file: sub-08_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:01 [INFO] 🔍 Searching for NIfTI for sub-08, run 5
+18:43:01 [INFO] ✅ Found NIfTI file: sub-08_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:01 [INFO] 🔮 extracting frame count for sub-08, run 1
+18:43:01 [INFO] 🟪 frame count = 296
+18:43:01 [INFO] 🔮 extracting frame count for sub-08, run 2
+18:43:01 [INFO] 🟪 frame count = 295
+18:43:01 [INFO] 🔮 extracting frame count for sub-08, run 3
+18:43:01 [INFO] 🟪 frame count = 295
+18:43:01 [INFO] 🔮 extracting frame count for sub-08, run 4
+18:43:01 [INFO] 🟪 frame count = 297
+18:43:01 [INFO] 🔮 extracting frame count for sub-08, run 5
+18:43:01 [INFO] 🟪 frame count = 296
+18:43:12 [INFO] ✔️ Trimmed run 1 for sub-08, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-08/trimmed_bold_run1.nii.gz
+18:43:22 [INFO] ✔️ Trimmed run 2 for sub-08, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-08/trimmed_bold_run2.nii.gz
+18:43:33 [INFO] ✔️ Trimmed run 3 for sub-08, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-08/trimmed_bold_run3.nii.gz
+18:43:43 [INFO] ✔️ Trimmed run 4 for sub-08, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-08/trimmed_bold_run4.nii.gz
+18:43:54 [INFO] ✔️ Trimmed run 5 for sub-08, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-08/trimmed_bold_run5.nii.gz
+18:43:54 [INFO] ▶️ Trimming sub-09
+18:43:54 [INFO] 🔍 Searching for NIfTI for sub-09, run 1
+18:43:54 [INFO] ✅ Found NIfTI file: sub-09_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:54 [INFO] 🔍 Searching for NIfTI for sub-09, run 2
+18:43:54 [INFO] ✅ Found NIfTI file: sub-09_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:54 [INFO] 🔍 Searching for NIfTI for sub-09, run 3
+18:43:54 [INFO] ✅ Found NIfTI file: sub-09_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:54 [INFO] 🔍 Searching for NIfTI for sub-09, run 4
+18:43:54 [INFO] ✅ Found NIfTI file: sub-09_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:54 [INFO] 🔍 Searching for NIfTI for sub-09, run 5
+18:43:54 [INFO] ✅ Found NIfTI file: sub-09_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:43:54 [INFO] 🔮 extracting frame count for sub-09, run 1
+18:43:54 [INFO] 🟪 frame count = 296
+18:43:54 [INFO] 🔮 extracting frame count for sub-09, run 2
+18:43:54 [INFO] 🟪 frame count = 298
+18:43:54 [INFO] 🔮 extracting frame count for sub-09, run 3
+18:43:54 [INFO] 🟪 frame count = 296
+18:43:54 [INFO] 🔮 extracting frame count for sub-09, run 4
+18:43:54 [INFO] 🟪 frame count = 298
+18:43:54 [INFO] 🔮 extracting frame count for sub-09, run 5
+18:43:54 [INFO] 🟪 frame count = 297
+18:44:04 [INFO] ✔️ Trimmed run 1 for sub-09, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-09/trimmed_bold_run1.nii.gz
+18:44:14 [INFO] ✔️ Trimmed run 2 for sub-09, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-09/trimmed_bold_run2.nii.gz
+18:44:25 [INFO] ✔️ Trimmed run 3 for sub-09, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-09/trimmed_bold_run3.nii.gz
+18:44:35 [INFO] ✔️ Trimmed run 4 for sub-09, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-09/trimmed_bold_run4.nii.gz
+18:44:45 [INFO] ✔️ Trimmed run 5 for sub-09, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-09/trimmed_bold_run5.nii.gz
+18:44:45 [INFO] ▶️ Trimming sub-10
+18:44:45 [INFO] 🔍 Searching for NIfTI for sub-10, run 1
+18:44:45 [INFO] ✅ Found NIfTI file: sub-10_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:44:45 [INFO] 🔍 Searching for NIfTI for sub-10, run 2
+18:44:45 [INFO] ✅ Found NIfTI file: sub-10_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:44:45 [INFO] 🔍 Searching for NIfTI for sub-10, run 3
+18:44:45 [INFO] ✅ Found NIfTI file: sub-10_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:44:45 [INFO] 🔍 Searching for NIfTI for sub-10, run 4
+18:44:45 [INFO] ✅ Found NIfTI file: sub-10_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:44:45 [INFO] 🔍 Searching for NIfTI for sub-10, run 5
+18:44:45 [INFO] ✅ Found NIfTI file: sub-10_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:44:45 [INFO] 🔮 extracting frame count for sub-10, run 1
+18:44:45 [INFO] 🟪 frame count = 297
+18:44:45 [INFO] 🔮 extracting frame count for sub-10, run 2
+18:44:45 [INFO] 🟪 frame count = 297
+18:44:45 [INFO] 🔮 extracting frame count for sub-10, run 3
+18:44:45 [INFO] 🟪 frame count = 297
+18:44:45 [INFO] 🔮 extracting frame count for sub-10, run 4
+18:44:45 [INFO] 🟪 frame count = 299
+18:44:45 [INFO] 🔮 extracting frame count for sub-10, run 5
+18:44:45 [INFO] 🟪 frame count = 297
+18:44:56 [INFO] ✔️ Trimmed run 1 for sub-10, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-10/trimmed_bold_run1.nii.gz
+18:45:06 [INFO] ✔️ Trimmed run 2 for sub-10, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-10/trimmed_bold_run2.nii.gz
+18:45:16 [INFO] ✔️ Trimmed run 3 for sub-10, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-10/trimmed_bold_run3.nii.gz
+18:45:26 [INFO] ✔️ Trimmed run 4 for sub-10, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-10/trimmed_bold_run4.nii.gz
+18:45:36 [INFO] ✔️ Trimmed run 5 for sub-10, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-10/trimmed_bold_run5.nii.gz
+18:45:36 [INFO] ▶️ Trimming sub-11
+18:45:36 [INFO] 🔍 Searching for NIfTI for sub-11, run 1
+18:45:36 [INFO] ✅ Found NIfTI file: sub-11_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:45:36 [INFO] 🔍 Searching for NIfTI for sub-11, run 2
+18:45:36 [INFO] ✅ Found NIfTI file: sub-11_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:45:36 [INFO] 🔍 Searching for NIfTI for sub-11, run 3
+18:45:36 [INFO] ✅ Found NIfTI file: sub-11_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:45:36 [INFO] 🔍 Searching for NIfTI for sub-11, run 4
+18:45:36 [INFO] ✅ Found NIfTI file: sub-11_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:45:36 [INFO] 🔍 Searching for NIfTI for sub-11, run 5
+18:45:36 [INFO] ✅ Found NIfTI file: sub-11_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:45:36 [INFO] 🔮 extracting frame count for sub-11, run 1
+18:45:36 [INFO] 🟪 frame count = 294
+18:45:36 [INFO] 🔮 extracting frame count for sub-11, run 2
+18:45:36 [INFO] 🟪 frame count = 296
+18:45:36 [INFO] 🔮 extracting frame count for sub-11, run 3
+18:45:36 [INFO] 🟪 frame count = 299
+18:45:36 [INFO] 🔮 extracting frame count for sub-11, run 4
+18:45:36 [INFO] 🟪 frame count = 294
+18:45:36 [INFO] 🔮 extracting frame count for sub-11, run 5
+18:45:36 [INFO] 🟪 frame count = 297
+18:45:46 [INFO] ✔️ Trimmed run 1 for sub-11, length=294, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-11/trimmed_bold_run1.nii.gz
+18:45:59 [INFO] ✔️ Trimmed run 2 for sub-11, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-11/trimmed_bold_run2.nii.gz
+18:46:11 [INFO] ✔️ Trimmed run 3 for sub-11, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-11/trimmed_bold_run3.nii.gz
+18:46:23 [INFO] ✔️ Trimmed run 4 for sub-11, length=294, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-11/trimmed_bold_run4.nii.gz
+18:46:34 [INFO] ✔️ Trimmed run 5 for sub-11, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-11/trimmed_bold_run5.nii.gz
+18:46:34 [INFO] ▶️ Trimming sub-12
+18:46:34 [INFO] 🔍 Searching for NIfTI for sub-12, run 1
+18:46:34 [INFO] ✅ Found NIfTI file: sub-12_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:46:34 [INFO] 🔍 Searching for NIfTI for sub-12, run 2
+18:46:34 [INFO] ✅ Found NIfTI file: sub-12_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:46:34 [INFO] 🔍 Searching for NIfTI for sub-12, run 3
+18:46:34 [INFO] ✅ Found NIfTI file: sub-12_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:46:34 [INFO] 🔍 Searching for NIfTI for sub-12, run 4
+18:46:34 [INFO] ✅ Found NIfTI file: sub-12_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:46:34 [INFO] 🔍 Searching for NIfTI for sub-12, run 5
+18:46:34 [INFO] ✅ Found NIfTI file: sub-12_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:46:34 [INFO] 🔮 extracting frame count for sub-12, run 1
+18:46:34 [INFO] 🟪 frame count = 296
+18:46:34 [INFO] 🔮 extracting frame count for sub-12, run 2
+18:46:34 [INFO] 🟪 frame count = 297
+18:46:34 [INFO] 🔮 extracting frame count for sub-12, run 3
+18:46:34 [INFO] 🟪 frame count = 296
+18:46:34 [INFO] 🔮 extracting frame count for sub-12, run 4
+18:46:34 [INFO] 🟪 frame count = 298
+18:46:34 [INFO] 🔮 extracting frame count for sub-12, run 5
+18:46:34 [INFO] 🟪 frame count = 294
+18:46:45 [INFO] ✔️ Trimmed run 1 for sub-12, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-12/trimmed_bold_run1.nii.gz
+18:46:56 [INFO] ✔️ Trimmed run 2 for sub-12, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-12/trimmed_bold_run2.nii.gz
+18:47:08 [INFO] ✔️ Trimmed run 3 for sub-12, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-12/trimmed_bold_run3.nii.gz
+18:47:19 [INFO] ✔️ Trimmed run 4 for sub-12, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-12/trimmed_bold_run4.nii.gz
+18:47:30 [INFO] ✔️ Trimmed run 5 for sub-12, length=294, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-12/trimmed_bold_run5.nii.gz
+18:47:30 [INFO] ▶️ Trimming sub-13
+18:47:30 [INFO] 🔍 Searching for NIfTI for sub-13, run 1
+18:47:30 [INFO] ✅ Found NIfTI file: sub-13_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:47:30 [INFO] 🔍 Searching for NIfTI for sub-13, run 2
+18:47:30 [INFO] ✅ Found NIfTI file: sub-13_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:47:30 [INFO] 🔍 Searching for NIfTI for sub-13, run 3
+18:47:30 [INFO] ✅ Found NIfTI file: sub-13_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:47:30 [INFO] 🔍 Searching for NIfTI for sub-13, run 4
+18:47:30 [INFO] ✅ Found NIfTI file: sub-13_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:47:30 [INFO] 🔍 Searching for NIfTI for sub-13, run 5
+18:47:30 [INFO] ✅ Found NIfTI file: sub-13_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:47:30 [INFO] 🔮 extracting frame count for sub-13, run 1
+18:47:30 [INFO] 🟪 frame count = 297
+18:47:30 [INFO] 🔮 extracting frame count for sub-13, run 2
+18:47:30 [INFO] 🟪 frame count = 298
+18:47:30 [INFO] 🔮 extracting frame count for sub-13, run 3
+18:47:30 [INFO] 🟪 frame count = 296
+18:47:30 [INFO] 🔮 extracting frame count for sub-13, run 4
+18:47:30 [INFO] 🟪 frame count = 296
+18:47:30 [INFO] 🔮 extracting frame count for sub-13, run 5
+18:47:30 [INFO] 🟪 frame count = 298
+18:47:41 [INFO] ✔️ Trimmed run 1 for sub-13, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-13/trimmed_bold_run1.nii.gz
+18:47:52 [INFO] ✔️ Trimmed run 2 for sub-13, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-13/trimmed_bold_run2.nii.gz
+18:48:04 [INFO] ✔️ Trimmed run 3 for sub-13, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-13/trimmed_bold_run3.nii.gz
+18:48:15 [INFO] ✔️ Trimmed run 4 for sub-13, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-13/trimmed_bold_run4.nii.gz
+18:48:27 [INFO] ✔️ Trimmed run 5 for sub-13, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-13/trimmed_bold_run5.nii.gz
+18:48:27 [INFO] ▶️ Trimming sub-14
+18:48:27 [INFO] 🔍 Searching for NIfTI for sub-14, run 1
+18:48:27 [INFO] ✅ Found NIfTI file: sub-14_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:48:27 [INFO] 🔍 Searching for NIfTI for sub-14, run 2
+18:48:27 [INFO] ✅ Found NIfTI file: sub-14_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:48:27 [INFO] 🔍 Searching for NIfTI for sub-14, run 3
+18:48:27 [INFO] ✅ Found NIfTI file: sub-14_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:48:27 [INFO] 🔍 Searching for NIfTI for sub-14, run 4
+18:48:27 [INFO] ✅ Found NIfTI file: sub-14_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:48:27 [INFO] 🔍 Searching for NIfTI for sub-14, run 5
+18:48:27 [INFO] ✅ Found NIfTI file: sub-14_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:48:27 [INFO] 🔮 extracting frame count for sub-14, run 1
+18:48:27 [INFO] 🟪 frame count = 297
+18:48:27 [INFO] 🔮 extracting frame count for sub-14, run 2
+18:48:27 [INFO] 🟪 frame count = 299
+18:48:27 [INFO] 🔮 extracting frame count for sub-14, run 3
+18:48:27 [INFO] 🟪 frame count = 295
+18:48:27 [INFO] 🔮 extracting frame count for sub-14, run 4
+18:48:27 [INFO] 🟪 frame count = 297
+18:48:27 [INFO] 🔮 extracting frame count for sub-14, run 5
+18:48:27 [INFO] 🟪 frame count = 297
+18:48:38 [INFO] ✔️ Trimmed run 1 for sub-14, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-14/trimmed_bold_run1.nii.gz
+18:48:51 [INFO] ✔️ Trimmed run 2 for sub-14, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-14/trimmed_bold_run2.nii.gz
+18:49:02 [INFO] ✔️ Trimmed run 3 for sub-14, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-14/trimmed_bold_run3.nii.gz
+18:49:13 [INFO] ✔️ Trimmed run 4 for sub-14, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-14/trimmed_bold_run4.nii.gz
+18:49:24 [INFO] ✔️ Trimmed run 5 for sub-14, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-14/trimmed_bold_run5.nii.gz
+18:49:24 [INFO] ▶️ Trimming sub-15
+18:49:24 [INFO] 🔍 Searching for NIfTI for sub-15, run 1
+18:49:24 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:49:24 [INFO] 🔍 Searching for NIfTI for sub-15, run 2
+18:49:24 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:49:24 [INFO] 🔍 Searching for NIfTI for sub-15, run 3
+18:49:24 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:49:24 [INFO] 🔍 Searching for NIfTI for sub-15, run 4
+18:49:24 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:49:24 [INFO] 🔍 Searching for NIfTI for sub-15, run 5
+18:49:24 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:49:24 [INFO] 🔮 extracting frame count for sub-15, run 1
+18:49:24 [ERROR] ❌ frame count is 0 for sub-15, run 1
+18:53:45 [INFO] ▶️ Trimming sub-15
+18:53:45 [INFO] 🔍 Searching for NIfTI for sub-15, run 1
+18:53:45 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:53:45 [INFO] 🔍 Searching for NIfTI for sub-15, run 2
+18:53:45 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:53:45 [INFO] 🔍 Searching for NIfTI for sub-15, run 3
+18:53:45 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:53:45 [INFO] 🔍 Searching for NIfTI for sub-15, run 4
+18:53:45 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:53:45 [INFO] 🔍 Searching for NIfTI for sub-15, run 5
+18:53:45 [INFO] ✅ Found NIfTI file: sub-15_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:53:45 [INFO] 🔮 extracting frame count for sub-15, run 1
+18:53:45 [INFO] 🟪 frame count = 296
+18:53:45 [INFO] 🔮 extracting frame count for sub-15, run 2
+18:53:45 [INFO] 🟪 frame count = 295
+18:53:45 [INFO] 🔮 extracting frame count for sub-15, run 3
+18:53:45 [INFO] 🟪 frame count = 297
+18:53:45 [INFO] 🔮 extracting frame count for sub-15, run 4
+18:53:45 [INFO] 🟪 frame count = 296
+18:53:45 [INFO] 🔮 extracting frame count for sub-15, run 5
+18:53:45 [INFO] 🟪 frame count = 295
+18:53:55 [INFO] ✔️ Trimmed run 1 for sub-15, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-15/trimmed_bold_run1.nii.gz
+18:54:06 [INFO] ✔️ Trimmed run 2 for sub-15, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-15/trimmed_bold_run2.nii.gz
+18:54:16 [INFO] ✔️ Trimmed run 3 for sub-15, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-15/trimmed_bold_run3.nii.gz
+18:54:26 [INFO] ✔️ Trimmed run 4 for sub-15, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-15/trimmed_bold_run4.nii.gz
+18:54:36 [INFO] ✔️ Trimmed run 5 for sub-15, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-15/trimmed_bold_run5.nii.gz
+18:54:36 [INFO] ▶️ Trimming sub-16
+18:54:36 [INFO] 🔍 Searching for NIfTI for sub-16, run 1
+18:54:36 [INFO] ✅ Found NIfTI file: sub-16_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:54:36 [INFO] 🔍 Searching for NIfTI for sub-16, run 2
+18:54:36 [INFO] ✅ Found NIfTI file: sub-16_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:54:36 [INFO] 🔍 Searching for NIfTI for sub-16, run 3
+18:54:36 [INFO] ✅ Found NIfTI file: sub-16_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:54:36 [INFO] 🔍 Searching for NIfTI for sub-16, run 4
+18:54:36 [INFO] ✅ Found NIfTI file: sub-16_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:54:36 [INFO] 🔍 Searching for NIfTI for sub-16, run 5
+18:54:36 [INFO] ✅ Found NIfTI file: sub-16_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:54:36 [INFO] 🔮 extracting frame count for sub-16, run 1
+18:54:36 [INFO] 🟪 frame count = 297
+18:54:36 [INFO] 🔮 extracting frame count for sub-16, run 2
+18:54:36 [INFO] 🟪 frame count = 296
+18:54:36 [INFO] 🔮 extracting frame count for sub-16, run 3
+18:54:36 [INFO] 🟪 frame count = 298
+18:54:36 [INFO] 🔮 extracting frame count for sub-16, run 4
+18:54:36 [INFO] 🟪 frame count = 297
+18:54:36 [INFO] 🔮 extracting frame count for sub-16, run 5
+18:54:36 [INFO] 🟪 frame count = 297
+18:54:46 [INFO] ✔️ Trimmed run 1 for sub-16, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-16/trimmed_bold_run1.nii.gz
+18:54:57 [INFO] ✔️ Trimmed run 2 for sub-16, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-16/trimmed_bold_run2.nii.gz
+18:55:07 [INFO] ✔️ Trimmed run 3 for sub-16, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-16/trimmed_bold_run3.nii.gz
+18:55:19 [INFO] ✔️ Trimmed run 4 for sub-16, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-16/trimmed_bold_run4.nii.gz
+18:55:30 [INFO] ✔️ Trimmed run 5 for sub-16, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-16/trimmed_bold_run5.nii.gz
+18:55:30 [INFO] ▶️ Trimming sub-17
+18:55:30 [INFO] 🔍 Searching for NIfTI for sub-17, run 1
+18:55:30 [INFO] ✅ Found NIfTI file: sub-17_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:55:30 [INFO] 🔍 Searching for NIfTI for sub-17, run 2
+18:55:30 [INFO] ✅ Found NIfTI file: sub-17_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:55:30 [INFO] 🔍 Searching for NIfTI for sub-17, run 3
+18:55:30 [INFO] ✅ Found NIfTI file: sub-17_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:55:30 [INFO] 🔍 Searching for NIfTI for sub-17, run 4
+18:55:30 [INFO] ✅ Found NIfTI file: sub-17_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:55:30 [INFO] 🔍 Searching for NIfTI for sub-17, run 5
+18:55:30 [INFO] ✅ Found NIfTI file: sub-17_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:55:30 [INFO] 🔮 extracting frame count for sub-17, run 1
+18:55:30 [INFO] 🟪 frame count = 298
+18:55:30 [INFO] 🔮 extracting frame count for sub-17, run 2
+18:55:30 [INFO] 🟪 frame count = 295
+18:55:30 [INFO] 🔮 extracting frame count for sub-17, run 3
+18:55:30 [INFO] 🟪 frame count = 297
+18:55:30 [INFO] 🔮 extracting frame count for sub-17, run 4
+18:55:30 [INFO] 🟪 frame count = 297
+18:55:30 [INFO] 🔮 extracting frame count for sub-17, run 5
+18:55:30 [INFO] 🟪 frame count = 296
+18:55:41 [INFO] ✔️ Trimmed run 1 for sub-17, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-17/trimmed_bold_run1.nii.gz
+18:55:52 [INFO] ✔️ Trimmed run 2 for sub-17, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-17/trimmed_bold_run2.nii.gz
+18:56:04 [INFO] ✔️ Trimmed run 3 for sub-17, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-17/trimmed_bold_run3.nii.gz
+18:56:16 [INFO] ✔️ Trimmed run 4 for sub-17, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-17/trimmed_bold_run4.nii.gz
+18:56:27 [INFO] ✔️ Trimmed run 5 for sub-17, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-17/trimmed_bold_run5.nii.gz
+18:56:27 [INFO] ▶️ Trimming sub-18
+18:56:27 [INFO] 🔍 Searching for NIfTI for sub-18, run 1
+18:56:27 [INFO] ✅ Found NIfTI file: sub-18_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:56:27 [INFO] 🔍 Searching for NIfTI for sub-18, run 2
+18:56:27 [INFO] ✅ Found NIfTI file: sub-18_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:56:27 [INFO] 🔍 Searching for NIfTI for sub-18, run 3
+18:56:27 [INFO] ✅ Found NIfTI file: sub-18_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:56:27 [INFO] 🔍 Searching for NIfTI for sub-18, run 4
+18:56:27 [INFO] ✅ Found NIfTI file: sub-18_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:56:27 [INFO] 🔍 Searching for NIfTI for sub-18, run 5
+18:56:27 [INFO] ✅ Found NIfTI file: sub-18_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:56:27 [INFO] 🔮 extracting frame count for sub-18, run 1
+18:56:27 [INFO] 🟪 frame count = 295
+18:56:27 [INFO] 🔮 extracting frame count for sub-18, run 2
+18:56:27 [INFO] 🟪 frame count = 298
+18:56:27 [INFO] 🔮 extracting frame count for sub-18, run 3
+18:56:27 [INFO] 🟪 frame count = 297
+18:56:27 [INFO] 🔮 extracting frame count for sub-18, run 4
+18:56:27 [INFO] 🟪 frame count = 296
+18:56:27 [INFO] 🔮 extracting frame count for sub-18, run 5
+18:56:27 [INFO] 🟪 frame count = 297
+18:56:37 [INFO] ✔️ Trimmed run 1 for sub-18, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-18/trimmed_bold_run1.nii.gz
+18:56:48 [INFO] ✔️ Trimmed run 2 for sub-18, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-18/trimmed_bold_run2.nii.gz
+18:56:58 [INFO] ✔️ Trimmed run 3 for sub-18, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-18/trimmed_bold_run3.nii.gz
+18:57:09 [INFO] ✔️ Trimmed run 4 for sub-18, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-18/trimmed_bold_run4.nii.gz
+18:57:20 [INFO] ✔️ Trimmed run 5 for sub-18, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-18/trimmed_bold_run5.nii.gz
+18:57:20 [INFO] ▶️ Trimming sub-19
+18:57:20 [INFO] 🔍 Searching for NIfTI for sub-19, run 1
+18:57:20 [INFO] ✅ Found NIfTI file: sub-19_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:57:20 [INFO] 🔍 Searching for NIfTI for sub-19, run 2
+18:57:20 [INFO] ✅ Found NIfTI file: sub-19_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:57:20 [INFO] 🔍 Searching for NIfTI for sub-19, run 3
+18:57:20 [INFO] ✅ Found NIfTI file: sub-19_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:57:20 [INFO] 🔍 Searching for NIfTI for sub-19, run 4
+18:57:20 [INFO] ✅ Found NIfTI file: sub-19_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:57:20 [INFO] 🔍 Searching for NIfTI for sub-19, run 5
+18:57:20 [INFO] ✅ Found NIfTI file: sub-19_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:57:20 [INFO] 🔮 extracting frame count for sub-19, run 1
+18:57:20 [INFO] 🟪 frame count = 297
+18:57:20 [INFO] 🔮 extracting frame count for sub-19, run 2
+18:57:20 [INFO] 🟪 frame count = 296
+18:57:20 [INFO] 🔮 extracting frame count for sub-19, run 3
+18:57:20 [INFO] 🟪 frame count = 296
+18:57:20 [INFO] 🔮 extracting frame count for sub-19, run 4
+18:57:20 [INFO] 🟪 frame count = 297
+18:57:20 [INFO] 🔮 extracting frame count for sub-19, run 5
+18:57:20 [INFO] 🟪 frame count = 298
+18:57:30 [INFO] ✔️ Trimmed run 1 for sub-19, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-19/trimmed_bold_run1.nii.gz
+18:57:42 [INFO] ✔️ Trimmed run 2 for sub-19, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-19/trimmed_bold_run2.nii.gz
+18:57:53 [INFO] ✔️ Trimmed run 3 for sub-19, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-19/trimmed_bold_run3.nii.gz
+18:58:04 [INFO] ✔️ Trimmed run 4 for sub-19, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-19/trimmed_bold_run4.nii.gz
+18:58:16 [INFO] ✔️ Trimmed run 5 for sub-19, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-19/trimmed_bold_run5.nii.gz
+18:58:16 [INFO] ▶️ Trimming sub-20
+18:58:16 [INFO] 🔍 Searching for NIfTI for sub-20, run 1
+18:58:16 [INFO] ✅ Found NIfTI file: sub-20_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:58:16 [INFO] 🔍 Searching for NIfTI for sub-20, run 2
+18:58:16 [INFO] ✅ Found NIfTI file: sub-20_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:58:16 [INFO] 🔍 Searching for NIfTI for sub-20, run 3
+18:58:16 [INFO] ✅ Found NIfTI file: sub-20_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:58:16 [INFO] 🔍 Searching for NIfTI for sub-20, run 4
+18:58:16 [INFO] ✅ Found NIfTI file: sub-20_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:58:16 [INFO] 🔍 Searching for NIfTI for sub-20, run 5
+18:58:16 [INFO] ✅ Found NIfTI file: sub-20_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:58:16 [INFO] 🔮 extracting frame count for sub-20, run 1
+18:58:16 [INFO] 🟪 frame count = 297
+18:58:16 [INFO] 🔮 extracting frame count for sub-20, run 2
+18:58:16 [INFO] 🟪 frame count = 298
+18:58:16 [INFO] 🔮 extracting frame count for sub-20, run 3
+18:58:16 [INFO] 🟪 frame count = 297
+18:58:16 [INFO] 🔮 extracting frame count for sub-20, run 4
+18:58:16 [INFO] 🟪 frame count = 296
+18:58:16 [INFO] 🔮 extracting frame count for sub-20, run 5
+18:58:16 [INFO] 🟪 frame count = 296
+18:58:26 [INFO] ✔️ Trimmed run 1 for sub-20, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-20/trimmed_bold_run1.nii.gz
+18:58:37 [INFO] ✔️ Trimmed run 2 for sub-20, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-20/trimmed_bold_run2.nii.gz
+18:58:47 [INFO] ✔️ Trimmed run 3 for sub-20, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-20/trimmed_bold_run3.nii.gz
+18:58:58 [INFO] ✔️ Trimmed run 4 for sub-20, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-20/trimmed_bold_run4.nii.gz
+18:59:10 [INFO] ✔️ Trimmed run 5 for sub-20, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-20/trimmed_bold_run5.nii.gz
+18:59:10 [INFO] ▶️ Trimming sub-21
+18:59:10 [INFO] 🔍 Searching for NIfTI for sub-21, run 1
+18:59:10 [INFO] ✅ Found NIfTI file: sub-21_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:59:10 [INFO] 🔍 Searching for NIfTI for sub-21, run 2
+18:59:10 [INFO] ✅ Found NIfTI file: sub-21_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:59:10 [INFO] 🔍 Searching for NIfTI for sub-21, run 3
+18:59:10 [INFO] ✅ Found NIfTI file: sub-21_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:59:10 [INFO] 🔍 Searching for NIfTI for sub-21, run 4
+18:59:10 [INFO] ✅ Found NIfTI file: sub-21_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:59:10 [INFO] 🔍 Searching for NIfTI for sub-21, run 5
+18:59:10 [INFO] ✅ Found NIfTI file: sub-21_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+18:59:10 [INFO] 🔮 extracting frame count for sub-21, run 1
+18:59:10 [INFO] 🟪 frame count = 296
+18:59:10 [INFO] 🔮 extracting frame count for sub-21, run 2
+18:59:10 [INFO] 🟪 frame count = 298
+18:59:10 [INFO] 🔮 extracting frame count for sub-21, run 3
+18:59:10 [INFO] 🟪 frame count = 298
+18:59:10 [INFO] 🔮 extracting frame count for sub-21, run 4
+18:59:10 [INFO] 🟪 frame count = 297
+18:59:10 [INFO] 🔮 extracting frame count for sub-21, run 5
+18:59:10 [INFO] 🟪 frame count = 296
+18:59:20 [INFO] ✔️ Trimmed run 1 for sub-21, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-21/trimmed_bold_run1.nii.gz
+18:59:32 [INFO] ✔️ Trimmed run 2 for sub-21, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-21/trimmed_bold_run2.nii.gz
+18:59:44 [INFO] ✔️ Trimmed run 3 for sub-21, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-21/trimmed_bold_run3.nii.gz
+18:59:56 [INFO] ✔️ Trimmed run 4 for sub-21, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-21/trimmed_bold_run4.nii.gz
+19:00:07 [INFO] ✔️ Trimmed run 5 for sub-21, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-21/trimmed_bold_run5.nii.gz
+19:00:07 [INFO] ▶️ Trimming sub-22
+19:00:07 [INFO] 🔍 Searching for NIfTI for sub-22, run 1
+19:00:07 [INFO] ✅ Found NIfTI file: sub-22_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:00:07 [INFO] 🔍 Searching for NIfTI for sub-22, run 2
+19:00:07 [INFO] ✅ Found NIfTI file: sub-22_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:00:07 [INFO] 🔍 Searching for NIfTI for sub-22, run 3
+19:00:07 [INFO] ✅ Found NIfTI file: sub-22_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:00:07 [INFO] 🔍 Searching for NIfTI for sub-22, run 4
+19:00:07 [INFO] ✅ Found NIfTI file: sub-22_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:00:07 [INFO] 🔍 Searching for NIfTI for sub-22, run 5
+19:00:07 [INFO] ✅ Found NIfTI file: sub-22_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:00:07 [INFO] 🔮 extracting frame count for sub-22, run 1
+19:00:07 [INFO] 🟪 frame count = 297
+19:00:07 [INFO] 🔮 extracting frame count for sub-22, run 2
+19:00:07 [INFO] 🟪 frame count = 296
+19:00:07 [INFO] 🔮 extracting frame count for sub-22, run 3
+19:00:07 [INFO] 🟪 frame count = 297
+19:00:07 [INFO] 🔮 extracting frame count for sub-22, run 4
+19:00:07 [INFO] 🟪 frame count = 298
+19:00:07 [INFO] 🔮 extracting frame count for sub-22, run 5
+19:00:07 [INFO] 🟪 frame count = 298
+19:00:18 [INFO] ✔️ Trimmed run 1 for sub-22, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-22/trimmed_bold_run1.nii.gz
+19:00:29 [INFO] ✔️ Trimmed run 2 for sub-22, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-22/trimmed_bold_run2.nii.gz
+19:00:41 [INFO] ✔️ Trimmed run 3 for sub-22, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-22/trimmed_bold_run3.nii.gz
+19:00:53 [INFO] ✔️ Trimmed run 4 for sub-22, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-22/trimmed_bold_run4.nii.gz
+19:01:04 [INFO] ✔️ Trimmed run 5 for sub-22, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-22/trimmed_bold_run5.nii.gz
+19:01:04 [INFO] ▶️ Trimming sub-23
+19:01:04 [INFO] 🔍 Searching for NIfTI for sub-23, run 1
+19:01:04 [INFO] ✅ Found NIfTI file: sub-23_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:01:04 [INFO] 🔍 Searching for NIfTI for sub-23, run 2
+19:01:04 [INFO] ✅ Found NIfTI file: sub-23_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:01:04 [INFO] 🔍 Searching for NIfTI for sub-23, run 3
+19:01:04 [INFO] ✅ Found NIfTI file: sub-23_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:01:04 [INFO] 🔍 Searching for NIfTI for sub-23, run 4
+19:01:04 [INFO] ✅ Found NIfTI file: sub-23_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:01:04 [INFO] 🔍 Searching for NIfTI for sub-23, run 5
+19:01:04 [INFO] ✅ Found NIfTI file: sub-23_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:01:04 [INFO] 🔮 extracting frame count for sub-23, run 1
+19:01:04 [INFO] 🟪 frame count = 298
+19:01:04 [INFO] 🔮 extracting frame count for sub-23, run 2
+19:01:04 [INFO] 🟪 frame count = 295
+19:01:04 [INFO] 🔮 extracting frame count for sub-23, run 3
+19:01:04 [INFO] 🟪 frame count = 298
+19:01:04 [INFO] 🔮 extracting frame count for sub-23, run 4
+19:01:04 [INFO] 🟪 frame count = 297
+19:01:04 [INFO] 🔮 extracting frame count for sub-23, run 5
+19:01:04 [INFO] 🟪 frame count = 297
+19:01:15 [INFO] ✔️ Trimmed run 1 for sub-23, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-23/trimmed_bold_run1.nii.gz
+19:01:26 [INFO] ✔️ Trimmed run 2 for sub-23, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-23/trimmed_bold_run2.nii.gz
+19:01:38 [INFO] ✔️ Trimmed run 3 for sub-23, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-23/trimmed_bold_run3.nii.gz
+19:01:49 [INFO] ✔️ Trimmed run 4 for sub-23, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-23/trimmed_bold_run4.nii.gz
+19:02:01 [INFO] ✔️ Trimmed run 5 for sub-23, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-23/trimmed_bold_run5.nii.gz
+19:02:01 [INFO] ▶️ Trimming sub-24
+19:02:01 [INFO] 🔍 Searching for NIfTI for sub-24, run 1
+19:02:01 [INFO] ✅ Found NIfTI file: sub-24_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:01 [INFO] 🔍 Searching for NIfTI for sub-24, run 2
+19:02:01 [INFO] ✅ Found NIfTI file: sub-24_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:01 [INFO] 🔍 Searching for NIfTI for sub-24, run 3
+19:02:01 [INFO] ✅ Found NIfTI file: sub-24_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:01 [INFO] 🔍 Searching for NIfTI for sub-24, run 4
+19:02:01 [INFO] ✅ Found NIfTI file: sub-24_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:01 [INFO] 🔍 Searching for NIfTI for sub-24, run 5
+19:02:01 [INFO] ✅ Found NIfTI file: sub-24_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:01 [INFO] 🔮 extracting frame count for sub-24, run 1
+19:02:01 [INFO] 🟪 frame count = 298
+19:02:01 [INFO] 🔮 extracting frame count for sub-24, run 2
+19:02:01 [INFO] 🟪 frame count = 297
+19:02:01 [INFO] 🔮 extracting frame count for sub-24, run 3
+19:02:01 [INFO] 🟪 frame count = 297
+19:02:01 [INFO] 🔮 extracting frame count for sub-24, run 4
+19:02:01 [INFO] 🟪 frame count = 299
+19:02:01 [INFO] 🔮 extracting frame count for sub-24, run 5
+19:02:01 [INFO] 🟪 frame count = 298
+19:02:11 [INFO] ✔️ Trimmed run 1 for sub-24, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-24/trimmed_bold_run1.nii.gz
+19:02:22 [INFO] ✔️ Trimmed run 2 for sub-24, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-24/trimmed_bold_run2.nii.gz
+19:02:34 [INFO] ✔️ Trimmed run 3 for sub-24, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-24/trimmed_bold_run3.nii.gz
+19:02:45 [INFO] ✔️ Trimmed run 4 for sub-24, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-24/trimmed_bold_run4.nii.gz
+19:02:57 [INFO] ✔️ Trimmed run 5 for sub-24, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-24/trimmed_bold_run5.nii.gz
+19:02:57 [INFO] ▶️ Trimming sub-25
+19:02:57 [INFO] 🔍 Searching for NIfTI for sub-25, run 1
+19:02:57 [INFO] ✅ Found NIfTI file: sub-25_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:57 [INFO] 🔍 Searching for NIfTI for sub-25, run 2
+19:02:57 [INFO] ✅ Found NIfTI file: sub-25_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:57 [INFO] 🔍 Searching for NIfTI for sub-25, run 3
+19:02:57 [INFO] ✅ Found NIfTI file: sub-25_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:57 [INFO] 🔍 Searching for NIfTI for sub-25, run 4
+19:02:57 [INFO] ✅ Found NIfTI file: sub-25_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:57 [INFO] 🔍 Searching for NIfTI for sub-25, run 5
+19:02:57 [INFO] ✅ Found NIfTI file: sub-25_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:02:57 [INFO] 🔮 extracting frame count for sub-25, run 1
+19:02:57 [INFO] 🟪 frame count = 298
+19:02:57 [INFO] 🔮 extracting frame count for sub-25, run 2
+19:02:57 [INFO] 🟪 frame count = 297
+19:02:57 [INFO] 🔮 extracting frame count for sub-25, run 3
+19:02:57 [INFO] 🟪 frame count = 299
+19:02:57 [INFO] 🔮 extracting frame count for sub-25, run 4
+19:02:57 [INFO] 🟪 frame count = 295
+19:02:57 [INFO] 🔮 extracting frame count for sub-25, run 5
+19:02:57 [INFO] 🟪 frame count = 297
+19:03:07 [INFO] ✔️ Trimmed run 1 for sub-25, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-25/trimmed_bold_run1.nii.gz
+19:03:19 [INFO] ✔️ Trimmed run 2 for sub-25, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-25/trimmed_bold_run2.nii.gz
+19:03:31 [INFO] ✔️ Trimmed run 3 for sub-25, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-25/trimmed_bold_run3.nii.gz
+19:03:42 [INFO] ✔️ Trimmed run 4 for sub-25, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-25/trimmed_bold_run4.nii.gz
+19:03:54 [INFO] ✔️ Trimmed run 5 for sub-25, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-25/trimmed_bold_run5.nii.gz
+19:03:54 [INFO] ▶️ Trimming sub-26
+19:03:54 [INFO] 🔍 Searching for NIfTI for sub-26, run 1
+19:03:54 [INFO] ✅ Found NIfTI file: sub-26_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:03:54 [INFO] 🔍 Searching for NIfTI for sub-26, run 2
+19:03:54 [INFO] ✅ Found NIfTI file: sub-26_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:03:54 [INFO] 🔍 Searching for NIfTI for sub-26, run 3
+19:03:54 [INFO] ✅ Found NIfTI file: sub-26_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:03:54 [INFO] 🔍 Searching for NIfTI for sub-26, run 4
+19:03:54 [INFO] ✅ Found NIfTI file: sub-26_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:03:54 [INFO] 🔍 Searching for NIfTI for sub-26, run 5
+19:03:54 [INFO] ✅ Found NIfTI file: sub-26_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:03:54 [INFO] 🔮 extracting frame count for sub-26, run 1
+19:03:54 [INFO] 🟪 frame count = 296
+19:03:54 [INFO] 🔮 extracting frame count for sub-26, run 2
+19:03:54 [INFO] 🟪 frame count = 297
+19:03:54 [INFO] 🔮 extracting frame count for sub-26, run 3
+19:03:54 [INFO] 🟪 frame count = 296
+19:03:54 [INFO] 🔮 extracting frame count for sub-26, run 4
+19:03:54 [INFO] 🟪 frame count = 296
+19:03:54 [INFO] 🔮 extracting frame count for sub-26, run 5
+19:03:54 [INFO] 🟪 frame count = 299
+19:04:04 [INFO] ✔️ Trimmed run 1 for sub-26, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-26/trimmed_bold_run1.nii.gz
+19:04:15 [INFO] ✔️ Trimmed run 2 for sub-26, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-26/trimmed_bold_run2.nii.gz
+19:04:26 [INFO] ✔️ Trimmed run 3 for sub-26, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-26/trimmed_bold_run3.nii.gz
+19:04:37 [INFO] ✔️ Trimmed run 4 for sub-26, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-26/trimmed_bold_run4.nii.gz
+19:04:48 [INFO] ✔️ Trimmed run 5 for sub-26, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-26/trimmed_bold_run5.nii.gz
+19:04:48 [INFO] ▶️ Trimming sub-27
+19:04:48 [INFO] 🔍 Searching for NIfTI for sub-27, run 1
+19:04:48 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:04:48 [INFO] 🔍 Searching for NIfTI for sub-27, run 2
+19:04:48 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:04:48 [INFO] 🔍 Searching for NIfTI for sub-27, run 3
+19:04:48 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:04:49 [INFO] 🔍 Searching for NIfTI for sub-27, run 4
+19:04:49 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:04:49 [INFO] 🔍 Searching for NIfTI for sub-27, run 5
+19:04:49 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:04:49 [INFO] 🔮 extracting frame count for sub-27, run 1
+19:04:49 [ERROR] ❌ frame count is 0 for sub-27, run 1
+19:10:47 [INFO] ▶️ Trimming sub-27
+19:10:47 [INFO] 🔍 Searching for NIfTI for sub-27, run 1
+19:10:47 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:10:47 [INFO] 🔍 Searching for NIfTI for sub-27, run 2
+19:10:47 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:10:47 [INFO] 🔍 Searching for NIfTI for sub-27, run 3
+19:10:47 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:10:47 [INFO] 🔍 Searching for NIfTI for sub-27, run 4
+19:10:47 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:10:47 [INFO] 🔍 Searching for NIfTI for sub-27, run 5
+19:10:47 [INFO] ✅ Found NIfTI file: sub-27_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:10:47 [INFO] 🔮 extracting frame count for sub-27, run 1
+19:10:47 [INFO] 🟪 frame count = 298
+19:10:47 [INFO] 🔮 extracting frame count for sub-27, run 2
+19:10:47 [INFO] 🟪 frame count = 297
+19:10:47 [INFO] 🔮 extracting frame count for sub-27, run 3
+19:10:47 [INFO] 🟪 frame count = 296
+19:10:47 [INFO] 🔮 extracting frame count for sub-27, run 4
+19:10:47 [INFO] 🟪 frame count = 297
+19:10:47 [INFO] 🔮 extracting frame count for sub-27, run 5
+19:10:47 [INFO] 🟪 frame count = 297
+19:10:58 [INFO] ✔️ Trimmed run 1 for sub-27, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-27/trimmed_bold_run1.nii.gz
+19:11:08 [INFO] ✔️ Trimmed run 2 for sub-27, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-27/trimmed_bold_run2.nii.gz
+19:11:18 [INFO] ✔️ Trimmed run 3 for sub-27, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-27/trimmed_bold_run3.nii.gz
+19:11:28 [INFO] ✔️ Trimmed run 4 for sub-27, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-27/trimmed_bold_run4.nii.gz
+19:11:38 [INFO] ✔️ Trimmed run 5 for sub-27, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-27/trimmed_bold_run5.nii.gz
+19:11:38 [INFO] ▶️ Trimming sub-28
+19:11:38 [INFO] 🔍 Searching for NIfTI for sub-28, run 1
+19:11:38 [INFO] ✅ Found NIfTI file: sub-28_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:11:38 [INFO] 🔍 Searching for NIfTI for sub-28, run 2
+19:11:38 [INFO] ✅ Found NIfTI file: sub-28_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:11:38 [INFO] 🔍 Searching for NIfTI for sub-28, run 3
+19:11:38 [INFO] ✅ Found NIfTI file: sub-28_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:11:38 [INFO] 🔍 Searching for NIfTI for sub-28, run 4
+19:11:38 [INFO] ✅ Found NIfTI file: sub-28_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:11:38 [INFO] 🔍 Searching for NIfTI for sub-28, run 5
+19:11:38 [INFO] ✅ Found NIfTI file: sub-28_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:11:38 [INFO] 🔮 extracting frame count for sub-28, run 1
+19:11:38 [INFO] 🟪 frame count = 298
+19:11:38 [INFO] 🔮 extracting frame count for sub-28, run 2
+19:11:38 [INFO] 🟪 frame count = 298
+19:11:38 [INFO] 🔮 extracting frame count for sub-28, run 3
+19:11:38 [INFO] 🟪 frame count = 298
+19:11:38 [INFO] 🔮 extracting frame count for sub-28, run 4
+19:11:38 [INFO] 🟪 frame count = 297
+19:11:38 [INFO] 🔮 extracting frame count for sub-28, run 5
+19:11:38 [INFO] 🟪 frame count = 297
+19:11:49 [INFO] ✔️ Trimmed run 1 for sub-28, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-28/trimmed_bold_run1.nii.gz
+19:11:59 [INFO] ✔️ Trimmed run 2 for sub-28, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-28/trimmed_bold_run2.nii.gz
+19:12:10 [INFO] ✔️ Trimmed run 3 for sub-28, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-28/trimmed_bold_run3.nii.gz
+19:12:21 [INFO] ✔️ Trimmed run 4 for sub-28, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-28/trimmed_bold_run4.nii.gz
+19:12:32 [INFO] ✔️ Trimmed run 5 for sub-28, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-28/trimmed_bold_run5.nii.gz
+19:12:32 [INFO] ▶️ Trimming sub-29
+19:12:32 [INFO] 🔍 Searching for NIfTI for sub-29, run 1
+19:12:32 [INFO] ✅ Found NIfTI file: sub-29_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:12:32 [INFO] 🔍 Searching for NIfTI for sub-29, run 2
+19:12:32 [INFO] ✅ Found NIfTI file: sub-29_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:12:32 [INFO] 🔍 Searching for NIfTI for sub-29, run 3
+19:12:32 [INFO] ✅ Found NIfTI file: sub-29_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:12:32 [INFO] 🔍 Searching for NIfTI for sub-29, run 4
+19:12:32 [INFO] ✅ Found NIfTI file: sub-29_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:12:32 [INFO] 🔍 Searching for NIfTI for sub-29, run 5
+19:12:32 [INFO] ✅ Found NIfTI file: sub-29_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:12:32 [INFO] 🔮 extracting frame count for sub-29, run 1
+19:12:32 [INFO] 🟪 frame count = 296
+19:12:32 [INFO] 🔮 extracting frame count for sub-29, run 2
+19:12:32 [INFO] 🟪 frame count = 297
+19:12:32 [INFO] 🔮 extracting frame count for sub-29, run 3
+19:12:32 [INFO] 🟪 frame count = 296
+19:12:32 [INFO] 🔮 extracting frame count for sub-29, run 4
+19:12:32 [INFO] 🟪 frame count = 296
+19:12:32 [INFO] 🔮 extracting frame count for sub-29, run 5
+19:12:32 [INFO] 🟪 frame count = 298
+19:12:42 [INFO] ✔️ Trimmed run 1 for sub-29, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-29/trimmed_bold_run1.nii.gz
+19:12:53 [INFO] ✔️ Trimmed run 2 for sub-29, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-29/trimmed_bold_run2.nii.gz
+19:13:05 [INFO] ✔️ Trimmed run 3 for sub-29, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-29/trimmed_bold_run3.nii.gz
+19:13:16 [INFO] ✔️ Trimmed run 4 for sub-29, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-29/trimmed_bold_run4.nii.gz
+19:13:27 [INFO] ✔️ Trimmed run 5 for sub-29, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-29/trimmed_bold_run5.nii.gz
+19:13:27 [INFO] ▶️ Trimming sub-30
+19:13:27 [INFO] 🔍 Searching for NIfTI for sub-30, run 1
+19:13:27 [INFO] ✅ Found NIfTI file: sub-30_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:13:27 [INFO] 🔍 Searching for NIfTI for sub-30, run 2
+19:13:27 [INFO] ✅ Found NIfTI file: sub-30_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:13:27 [INFO] 🔍 Searching for NIfTI for sub-30, run 3
+19:13:27 [INFO] ✅ Found NIfTI file: sub-30_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:13:27 [INFO] 🔍 Searching for NIfTI for sub-30, run 4
+19:13:27 [INFO] ✅ Found NIfTI file: sub-30_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:13:27 [INFO] 🔍 Searching for NIfTI for sub-30, run 5
+19:13:27 [INFO] ✅ Found NIfTI file: sub-30_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:13:27 [INFO] 🔮 extracting frame count for sub-30, run 1
+19:13:27 [INFO] 🟪 frame count = 297
+19:13:27 [INFO] 🔮 extracting frame count for sub-30, run 2
+19:13:27 [INFO] 🟪 frame count = 296
+19:13:27 [INFO] 🔮 extracting frame count for sub-30, run 3
+19:13:27 [INFO] 🟪 frame count = 296
+19:13:27 [INFO] 🔮 extracting frame count for sub-30, run 4
+19:13:27 [INFO] 🟪 frame count = 297
+19:13:27 [INFO] 🔮 extracting frame count for sub-30, run 5
+19:13:27 [INFO] 🟪 frame count = 298
+19:13:37 [INFO] ✔️ Trimmed run 1 for sub-30, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-30/trimmed_bold_run1.nii.gz
+19:13:48 [INFO] ✔️ Trimmed run 2 for sub-30, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-30/trimmed_bold_run2.nii.gz
+19:14:00 [INFO] ✔️ Trimmed run 3 for sub-30, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-30/trimmed_bold_run3.nii.gz
+19:14:11 [INFO] ✔️ Trimmed run 4 for sub-30, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-30/trimmed_bold_run4.nii.gz
+19:14:22 [INFO] ✔️ Trimmed run 5 for sub-30, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-30/trimmed_bold_run5.nii.gz
+19:14:22 [INFO] ▶️ Trimming sub-31
+19:14:22 [INFO] 🔍 Searching for NIfTI for sub-31, run 1
+19:14:22 [INFO] ✅ Found NIfTI file: sub-31_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:14:22 [INFO] 🔍 Searching for NIfTI for sub-31, run 2
+19:14:22 [INFO] ✅ Found NIfTI file: sub-31_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:14:22 [INFO] 🔍 Searching for NIfTI for sub-31, run 3
+19:14:22 [INFO] ✅ Found NIfTI file: sub-31_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:14:22 [INFO] 🔍 Searching for NIfTI for sub-31, run 4
+19:14:22 [INFO] ✅ Found NIfTI file: sub-31_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:14:22 [INFO] 🔍 Searching for NIfTI for sub-31, run 5
+19:14:22 [INFO] ✅ Found NIfTI file: sub-31_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:14:22 [INFO] 🔮 extracting frame count for sub-31, run 1
+19:14:22 [INFO] 🟪 frame count = 297
+19:14:22 [INFO] 🔮 extracting frame count for sub-31, run 2
+19:14:22 [INFO] 🟪 frame count = 297
+19:14:22 [INFO] 🔮 extracting frame count for sub-31, run 3
+19:14:22 [INFO] 🟪 frame count = 297
+19:14:22 [INFO] 🔮 extracting frame count for sub-31, run 4
+19:14:22 [INFO] 🟪 frame count = 296
+19:14:22 [INFO] 🔮 extracting frame count for sub-31, run 5
+19:14:22 [INFO] 🟪 frame count = 299
+19:14:33 [INFO] ✔️ Trimmed run 1 for sub-31, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-31/trimmed_bold_run1.nii.gz
+19:14:44 [INFO] ✔️ Trimmed run 2 for sub-31, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-31/trimmed_bold_run2.nii.gz
+19:14:55 [INFO] ✔️ Trimmed run 3 for sub-31, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-31/trimmed_bold_run3.nii.gz
+19:15:06 [INFO] ✔️ Trimmed run 4 for sub-31, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-31/trimmed_bold_run4.nii.gz
+19:15:18 [INFO] ✔️ Trimmed run 5 for sub-31, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-31/trimmed_bold_run5.nii.gz
+19:15:18 [INFO] ▶️ Trimming sub-32
+19:15:18 [INFO] 🔍 Searching for NIfTI for sub-32, run 1
+19:15:18 [INFO] ✅ Found NIfTI file: sub-32_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:15:18 [INFO] 🔍 Searching for NIfTI for sub-32, run 2
+19:15:18 [INFO] ✅ Found NIfTI file: sub-32_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:15:18 [INFO] 🔍 Searching for NIfTI for sub-32, run 3
+19:15:18 [INFO] ✅ Found NIfTI file: sub-32_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:15:18 [INFO] 🔍 Searching for NIfTI for sub-32, run 4
+19:15:18 [INFO] ✅ Found NIfTI file: sub-32_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:15:18 [INFO] 🔍 Searching for NIfTI for sub-32, run 5
+19:15:18 [INFO] ✅ Found NIfTI file: sub-32_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:15:18 [INFO] 🔮 extracting frame count for sub-32, run 1
+19:15:18 [INFO] 🟪 frame count = 298
+19:15:18 [INFO] 🔮 extracting frame count for sub-32, run 2
+19:15:18 [INFO] 🟪 frame count = 295
+19:15:18 [INFO] 🔮 extracting frame count for sub-32, run 3
+19:15:18 [INFO] 🟪 frame count = 298
+19:15:18 [INFO] 🔮 extracting frame count for sub-32, run 4
+19:15:18 [INFO] 🟪 frame count = 298
+19:15:18 [INFO] 🔮 extracting frame count for sub-32, run 5
+19:15:18 [INFO] 🟪 frame count = 296
+19:15:28 [INFO] ✔️ Trimmed run 1 for sub-32, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-32/trimmed_bold_run1.nii.gz
+19:15:40 [INFO] ✔️ Trimmed run 2 for sub-32, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-32/trimmed_bold_run2.nii.gz
+19:15:51 [INFO] ✔️ Trimmed run 3 for sub-32, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-32/trimmed_bold_run3.nii.gz
+19:16:03 [INFO] ✔️ Trimmed run 4 for sub-32, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-32/trimmed_bold_run4.nii.gz
+19:16:14 [INFO] ✔️ Trimmed run 5 for sub-32, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-32/trimmed_bold_run5.nii.gz
+19:16:14 [INFO] ▶️ Trimming sub-33
+19:16:14 [INFO] 🔍 Searching for NIfTI for sub-33, run 1
+19:16:14 [INFO] ✅ Found NIfTI file: sub-33_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:16:14 [INFO] 🔍 Searching for NIfTI for sub-33, run 2
+19:16:14 [INFO] ✅ Found NIfTI file: sub-33_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:16:14 [INFO] 🔍 Searching for NIfTI for sub-33, run 3
+19:16:14 [INFO] ✅ Found NIfTI file: sub-33_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:16:14 [INFO] 🔍 Searching for NIfTI for sub-33, run 4
+19:16:14 [INFO] ✅ Found NIfTI file: sub-33_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:16:14 [INFO] 🔍 Searching for NIfTI for sub-33, run 5
+19:16:14 [INFO] ✅ Found NIfTI file: sub-33_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:16:14 [INFO] 🔮 extracting frame count for sub-33, run 1
+19:16:14 [INFO] 🟪 frame count = 298
+19:16:14 [INFO] 🔮 extracting frame count for sub-33, run 2
+19:16:14 [INFO] 🟪 frame count = 298
+19:16:14 [INFO] 🔮 extracting frame count for sub-33, run 3
+19:16:14 [INFO] 🟪 frame count = 296
+19:16:14 [INFO] 🔮 extracting frame count for sub-33, run 4
+19:16:14 [INFO] 🟪 frame count = 298
+19:16:14 [INFO] 🔮 extracting frame count for sub-33, run 5
+19:16:14 [INFO] 🟪 frame count = 296
+19:16:25 [INFO] ✔️ Trimmed run 1 for sub-33, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-33/trimmed_bold_run1.nii.gz
+19:16:36 [INFO] ✔️ Trimmed run 2 for sub-33, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-33/trimmed_bold_run2.nii.gz
+19:16:48 [INFO] ✔️ Trimmed run 3 for sub-33, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-33/trimmed_bold_run3.nii.gz
+19:16:59 [INFO] ✔️ Trimmed run 4 for sub-33, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-33/trimmed_bold_run4.nii.gz
+19:17:10 [INFO] ✔️ Trimmed run 5 for sub-33, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-33/trimmed_bold_run5.nii.gz
+19:17:10 [INFO] ▶️ Trimming sub-34
+19:17:10 [INFO] 🔍 Searching for NIfTI for sub-34, run 1
+19:17:10 [INFO] ✅ Found NIfTI file: sub-34_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:17:10 [INFO] 🔍 Searching for NIfTI for sub-34, run 2
+19:17:10 [INFO] ✅ Found NIfTI file: sub-34_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:17:10 [INFO] 🔍 Searching for NIfTI for sub-34, run 3
+19:17:10 [INFO] ✅ Found NIfTI file: sub-34_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:17:10 [INFO] 🔍 Searching for NIfTI for sub-34, run 4
+19:17:10 [INFO] ✅ Found NIfTI file: sub-34_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:17:10 [INFO] 🔍 Searching for NIfTI for sub-34, run 5
+19:17:10 [INFO] ✅ Found NIfTI file: sub-34_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:17:10 [INFO] 🔮 extracting frame count for sub-34, run 1
+19:17:10 [INFO] 🟪 frame count = 295
+19:17:10 [INFO] 🔮 extracting frame count for sub-34, run 2
+19:17:10 [INFO] 🟪 frame count = 295
+19:17:10 [INFO] 🔮 extracting frame count for sub-34, run 3
+19:17:10 [INFO] 🟪 frame count = 297
+19:17:10 [INFO] 🔮 extracting frame count for sub-34, run 4
+19:17:10 [INFO] 🟪 frame count = 296
+19:17:10 [INFO] 🔮 extracting frame count for sub-34, run 5
+19:17:10 [INFO] 🟪 frame count = 295
+19:17:20 [INFO] ✔️ Trimmed run 1 for sub-34, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-34/trimmed_bold_run1.nii.gz
+19:17:32 [INFO] ✔️ Trimmed run 2 for sub-34, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-34/trimmed_bold_run2.nii.gz
+19:17:43 [INFO] ✔️ Trimmed run 3 for sub-34, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-34/trimmed_bold_run3.nii.gz
+19:17:55 [INFO] ✔️ Trimmed run 4 for sub-34, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-34/trimmed_bold_run4.nii.gz
+19:18:06 [INFO] ✔️ Trimmed run 5 for sub-34, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-34/trimmed_bold_run5.nii.gz
+19:18:06 [INFO] ▶️ Trimming sub-35
+19:18:06 [INFO] 🔍 Searching for NIfTI for sub-35, run 1
+19:18:06 [INFO] ✅ Found NIfTI file: sub-35_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:06 [INFO] 🔍 Searching for NIfTI for sub-35, run 2
+19:18:06 [INFO] ✅ Found NIfTI file: sub-35_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:06 [INFO] 🔍 Searching for NIfTI for sub-35, run 3
+19:18:06 [INFO] ✅ Found NIfTI file: sub-35_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:06 [INFO] 🔍 Searching for NIfTI for sub-35, run 4
+19:18:06 [INFO] ✅ Found NIfTI file: sub-35_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:06 [INFO] 🔍 Searching for NIfTI for sub-35, run 5
+19:18:06 [INFO] ✅ Found NIfTI file: sub-35_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:06 [INFO] 🔮 extracting frame count for sub-35, run 1
+19:18:06 [INFO] 🟪 frame count = 296
+19:18:06 [INFO] 🔮 extracting frame count for sub-35, run 2
+19:18:06 [INFO] 🟪 frame count = 297
+19:18:06 [INFO] 🔮 extracting frame count for sub-35, run 3
+19:18:06 [INFO] 🟪 frame count = 299
+19:18:06 [INFO] 🔮 extracting frame count for sub-35, run 4
+19:18:06 [INFO] 🟪 frame count = 298
+19:18:06 [INFO] 🔮 extracting frame count for sub-35, run 5
+19:18:06 [INFO] 🟪 frame count = 299
+19:18:16 [INFO] ✔️ Trimmed run 1 for sub-35, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-35/trimmed_bold_run1.nii.gz
+19:18:27 [INFO] ✔️ Trimmed run 2 for sub-35, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-35/trimmed_bold_run2.nii.gz
+19:18:37 [INFO] ✔️ Trimmed run 3 for sub-35, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-35/trimmed_bold_run3.nii.gz
+19:18:47 [INFO] ✔️ Trimmed run 4 for sub-35, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-35/trimmed_bold_run4.nii.gz
+19:18:58 [INFO] ✔️ Trimmed run 5 for sub-35, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-35/trimmed_bold_run5.nii.gz
+19:18:58 [INFO] ▶️ Trimming sub-36
+19:18:58 [INFO] 🔍 Searching for NIfTI for sub-36, run 1
+19:18:58 [INFO] ✅ Found NIfTI file: sub-36_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:58 [INFO] 🔍 Searching for NIfTI for sub-36, run 2
+19:18:58 [INFO] ✅ Found NIfTI file: sub-36_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:58 [INFO] 🔍 Searching for NIfTI for sub-36, run 3
+19:18:58 [INFO] ✅ Found NIfTI file: sub-36_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:58 [INFO] 🔍 Searching for NIfTI for sub-36, run 4
+19:18:58 [INFO] ✅ Found NIfTI file: sub-36_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:58 [INFO] 🔍 Searching for NIfTI for sub-36, run 5
+19:18:58 [INFO] ✅ Found NIfTI file: sub-36_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:18:58 [INFO] 🔮 extracting frame count for sub-36, run 1
+19:18:58 [INFO] 🟪 frame count = 298
+19:18:58 [INFO] 🔮 extracting frame count for sub-36, run 2
+19:18:58 [INFO] 🟪 frame count = 296
+19:18:58 [INFO] 🔮 extracting frame count for sub-36, run 3
+19:18:58 [INFO] 🟪 frame count = 294
+19:18:58 [INFO] 🔮 extracting frame count for sub-36, run 4
+19:18:58 [INFO] 🟪 frame count = 298
+19:18:58 [INFO] 🔮 extracting frame count for sub-36, run 5
+19:18:58 [INFO] 🟪 frame count = 297
+19:19:08 [INFO] ✔️ Trimmed run 1 for sub-36, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-36/trimmed_bold_run1.nii.gz
+19:19:20 [INFO] ✔️ Trimmed run 2 for sub-36, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-36/trimmed_bold_run2.nii.gz
+19:19:31 [INFO] ✔️ Trimmed run 3 for sub-36, length=294, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-36/trimmed_bold_run3.nii.gz
+19:19:43 [INFO] ✔️ Trimmed run 4 for sub-36, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-36/trimmed_bold_run4.nii.gz
+19:19:54 [INFO] ✔️ Trimmed run 5 for sub-36, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-36/trimmed_bold_run5.nii.gz
+19:19:54 [INFO] ▶️ Trimming sub-37
+19:19:54 [INFO] 🔍 Searching for NIfTI for sub-37, run 1
+19:19:54 [INFO] ✅ Found NIfTI file: sub-37_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:19:54 [INFO] 🔍 Searching for NIfTI for sub-37, run 2
+19:19:54 [INFO] ✅ Found NIfTI file: sub-37_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:19:54 [INFO] 🔍 Searching for NIfTI for sub-37, run 3
+19:19:54 [INFO] ✅ Found NIfTI file: sub-37_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:19:54 [INFO] 🔍 Searching for NIfTI for sub-37, run 4
+19:19:54 [INFO] ✅ Found NIfTI file: sub-37_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:19:54 [INFO] 🔍 Searching for NIfTI for sub-37, run 5
+19:19:54 [INFO] ✅ Found NIfTI file: sub-37_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:19:54 [INFO] 🔮 extracting frame count for sub-37, run 1
+19:19:54 [INFO] 🟪 frame count = 296
+19:19:54 [INFO] 🔮 extracting frame count for sub-37, run 2
+19:19:54 [INFO] 🟪 frame count = 298
+19:19:54 [INFO] 🔮 extracting frame count for sub-37, run 3
+19:19:54 [INFO] 🟪 frame count = 297
+19:19:54 [INFO] 🔮 extracting frame count for sub-37, run 4
+19:19:54 [INFO] 🟪 frame count = 296
+19:19:54 [INFO] 🔮 extracting frame count for sub-37, run 5
+19:19:54 [INFO] 🟪 frame count = 298
+19:20:04 [INFO] ✔️ Trimmed run 1 for sub-37, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-37/trimmed_bold_run1.nii.gz
+19:20:16 [INFO] ✔️ Trimmed run 2 for sub-37, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-37/trimmed_bold_run2.nii.gz
+19:20:27 [INFO] ✔️ Trimmed run 3 for sub-37, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-37/trimmed_bold_run3.nii.gz
+19:20:38 [INFO] ✔️ Trimmed run 4 for sub-37, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-37/trimmed_bold_run4.nii.gz
+19:20:50 [INFO] ✔️ Trimmed run 5 for sub-37, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-37/trimmed_bold_run5.nii.gz
+19:20:50 [INFO] ▶️ Trimming sub-38
+19:20:50 [INFO] 🔍 Searching for NIfTI for sub-38, run 1
+19:20:50 [INFO] ✅ Found NIfTI file: sub-38_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:20:50 [INFO] 🔍 Searching for NIfTI for sub-38, run 2
+19:20:50 [INFO] ✅ Found NIfTI file: sub-38_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:20:50 [INFO] 🔍 Searching for NIfTI for sub-38, run 3
+19:20:50 [INFO] ✅ Found NIfTI file: sub-38_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:20:50 [INFO] 🔍 Searching for NIfTI for sub-38, run 4
+19:20:50 [INFO] ✅ Found NIfTI file: sub-38_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:20:50 [INFO] 🔍 Searching for NIfTI for sub-38, run 5
+19:20:50 [INFO] ✅ Found NIfTI file: sub-38_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:20:50 [INFO] 🔮 extracting frame count for sub-38, run 1
+19:20:50 [INFO] 🟪 frame count = 296
+19:20:50 [INFO] 🔮 extracting frame count for sub-38, run 2
+19:20:50 [INFO] 🟪 frame count = 297
+19:20:50 [INFO] 🔮 extracting frame count for sub-38, run 3
+19:20:50 [INFO] 🟪 frame count = 299
+19:20:50 [INFO] 🔮 extracting frame count for sub-38, run 4
+19:20:50 [INFO] 🟪 frame count = 297
+19:20:50 [INFO] 🔮 extracting frame count for sub-38, run 5
+19:20:50 [INFO] 🟪 frame count = 296
+19:21:00 [INFO] ✔️ Trimmed run 1 for sub-38, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-38/trimmed_bold_run1.nii.gz
+19:21:11 [INFO] ✔️ Trimmed run 2 for sub-38, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-38/trimmed_bold_run2.nii.gz
+19:21:22 [INFO] ✔️ Trimmed run 3 for sub-38, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-38/trimmed_bold_run3.nii.gz
+19:21:33 [INFO] ✔️ Trimmed run 4 for sub-38, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-38/trimmed_bold_run4.nii.gz
+19:21:44 [INFO] ✔️ Trimmed run 5 for sub-38, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-38/trimmed_bold_run5.nii.gz
+19:21:44 [INFO] ▶️ Trimming sub-39
+19:21:44 [INFO] 🔍 Searching for NIfTI for sub-39, run 1
+19:21:44 [INFO] ✅ Found NIfTI file: sub-39_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:21:44 [INFO] 🔍 Searching for NIfTI for sub-39, run 2
+19:21:44 [INFO] ✅ Found NIfTI file: sub-39_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:21:44 [INFO] 🔍 Searching for NIfTI for sub-39, run 3
+19:21:44 [INFO] ✅ Found NIfTI file: sub-39_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:21:44 [INFO] 🔍 Searching for NIfTI for sub-39, run 4
+19:21:44 [INFO] ✅ Found NIfTI file: sub-39_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:21:44 [INFO] 🔍 Searching for NIfTI for sub-39, run 5
+19:21:44 [INFO] ✅ Found NIfTI file: sub-39_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:21:44 [INFO] 🔮 extracting frame count for sub-39, run 1
+19:21:44 [INFO] 🟪 frame count = 295
+19:21:44 [INFO] 🔮 extracting frame count for sub-39, run 2
+19:21:44 [INFO] 🟪 frame count = 297
+19:21:44 [INFO] 🔮 extracting frame count for sub-39, run 3
+19:21:44 [INFO] 🟪 frame count = 297
+19:21:44 [INFO] 🔮 extracting frame count for sub-39, run 4
+19:21:44 [INFO] 🟪 frame count = 296
+19:21:44 [INFO] 🔮 extracting frame count for sub-39, run 5
+19:21:44 [INFO] 🟪 frame count = 297
+19:21:54 [INFO] ✔️ Trimmed run 1 for sub-39, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-39/trimmed_bold_run1.nii.gz
+19:22:05 [INFO] ✔️ Trimmed run 2 for sub-39, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-39/trimmed_bold_run2.nii.gz
+19:22:16 [INFO] ✔️ Trimmed run 3 for sub-39, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-39/trimmed_bold_run3.nii.gz
+19:22:27 [INFO] ✔️ Trimmed run 4 for sub-39, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-39/trimmed_bold_run4.nii.gz
+19:22:38 [INFO] ✔️ Trimmed run 5 for sub-39, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-39/trimmed_bold_run5.nii.gz
+19:22:38 [INFO] ▶️ Trimming sub-40
+19:22:38 [INFO] 🔍 Searching for NIfTI for sub-40, run 1
+19:22:38 [INFO] ✅ Found NIfTI file: sub-40_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:22:38 [INFO] 🔍 Searching for NIfTI for sub-40, run 2
+19:22:38 [INFO] ✅ Found NIfTI file: sub-40_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:22:38 [INFO] 🔍 Searching for NIfTI for sub-40, run 3
+19:22:38 [INFO] ✅ Found NIfTI file: sub-40_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:22:38 [INFO] 🔍 Searching for NIfTI for sub-40, run 4
+19:22:38 [INFO] ✅ Found NIfTI file: sub-40_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:22:38 [INFO] 🔍 Searching for NIfTI for sub-40, run 5
+19:22:38 [INFO] ✅ Found NIfTI file: sub-40_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:22:38 [INFO] 🔮 extracting frame count for sub-40, run 1
+19:22:38 [INFO] 🟪 frame count = 297
+19:22:38 [INFO] 🔮 extracting frame count for sub-40, run 2
+19:22:38 [INFO] 🟪 frame count = 296
+19:22:38 [INFO] 🔮 extracting frame count for sub-40, run 3
+19:22:38 [INFO] 🟪 frame count = 299
+19:22:38 [INFO] 🔮 extracting frame count for sub-40, run 4
+19:22:38 [INFO] 🟪 frame count = 297
+19:22:38 [INFO] 🔮 extracting frame count for sub-40, run 5
+19:22:38 [INFO] 🟪 frame count = 297
+19:22:48 [INFO] ✔️ Trimmed run 1 for sub-40, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-40/trimmed_bold_run1.nii.gz
+19:22:59 [INFO] ✔️ Trimmed run 2 for sub-40, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-40/trimmed_bold_run2.nii.gz
+19:23:11 [INFO] ✔️ Trimmed run 3 for sub-40, length=299, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-40/trimmed_bold_run3.nii.gz
+19:23:22 [INFO] ✔️ Trimmed run 4 for sub-40, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-40/trimmed_bold_run4.nii.gz
+19:23:34 [INFO] ✔️ Trimmed run 5 for sub-40, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-40/trimmed_bold_run5.nii.gz
+19:23:34 [INFO] ▶️ Trimming sub-41
+19:23:34 [INFO] 🔍 Searching for NIfTI for sub-41, run 1
+19:23:34 [INFO] ✅ Found NIfTI file: sub-41_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:23:34 [INFO] 🔍 Searching for NIfTI for sub-41, run 2
+19:23:34 [INFO] ✅ Found NIfTI file: sub-41_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:23:34 [INFO] 🔍 Searching for NIfTI for sub-41, run 3
+19:23:34 [INFO] ✅ Found NIfTI file: sub-41_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:23:34 [INFO] 🔍 Searching for NIfTI for sub-41, run 4
+19:23:34 [INFO] ✅ Found NIfTI file: sub-41_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:23:34 [INFO] 🔍 Searching for NIfTI for sub-41, run 5
+19:23:34 [INFO] ✅ Found NIfTI file: sub-41_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:23:34 [INFO] 🔮 extracting frame count for sub-41, run 1
+19:23:34 [INFO] 🟪 frame count = 297
+19:23:34 [INFO] 🔮 extracting frame count for sub-41, run 2
+19:23:34 [INFO] 🟪 frame count = 297
+19:23:34 [INFO] 🔮 extracting frame count for sub-41, run 3
+19:23:34 [INFO] 🟪 frame count = 297
+19:23:34 [INFO] 🔮 extracting frame count for sub-41, run 4
+19:23:34 [INFO] 🟪 frame count = 296
+19:23:34 [INFO] 🔮 extracting frame count for sub-41, run 5
+19:23:34 [INFO] 🟪 frame count = 298
+19:23:44 [INFO] ✔️ Trimmed run 1 for sub-41, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-41/trimmed_bold_run1.nii.gz
+19:23:56 [INFO] ✔️ Trimmed run 2 for sub-41, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-41/trimmed_bold_run2.nii.gz
+19:24:07 [INFO] ✔️ Trimmed run 3 for sub-41, length=297, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-41/trimmed_bold_run3.nii.gz
+19:24:19 [INFO] ✔️ Trimmed run 4 for sub-41, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-41/trimmed_bold_run4.nii.gz
+19:24:31 [INFO] ✔️ Trimmed run 5 for sub-41, length=298, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-41/trimmed_bold_run5.nii.gz
+19:24:31 [INFO] ▶️ Trimming sub-42
+19:24:31 [INFO] 🔍 Searching for NIfTI for sub-42, run 1
+19:24:31 [INFO] ✅ Found NIfTI file: sub-42_task-contact_run-01_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:24:31 [INFO] 🔍 Searching for NIfTI for sub-42, run 2
+19:24:31 [INFO] ✅ Found NIfTI file: sub-42_task-contact_run-02_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:24:31 [INFO] 🔍 Searching for NIfTI for sub-42, run 3
+19:24:31 [INFO] ✅ Found NIfTI file: sub-42_task-contact_run-03_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:24:31 [INFO] 🔍 Searching for NIfTI for sub-42, run 4
+19:24:31 [INFO] ✅ Found NIfTI file: sub-42_task-contact_run-04_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:24:31 [INFO] 🔍 Searching for NIfTI for sub-42, run 5
+19:24:31 [INFO] ✅ Found NIfTI file: sub-42_task-contact_run-05_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+19:24:31 [INFO] 🔮 extracting frame count for sub-42, run 1
+19:24:31 [INFO] 🟪 frame count = 296
+19:24:31 [INFO] 🔮 extracting frame count for sub-42, run 2
+19:24:31 [INFO] 🟪 frame count = 296
+19:24:31 [INFO] 🔮 extracting frame count for sub-42, run 3
+19:24:31 [INFO] 🟪 frame count = 296
+19:24:31 [INFO] 🔮 extracting frame count for sub-42, run 4
+19:24:31 [INFO] 🟪 frame count = 295
+19:24:31 [INFO] 🔮 extracting frame count for sub-42, run 5
+19:24:31 [INFO] 🟪 frame count = 295
+19:24:41 [INFO] ✔️ Trimmed run 1 for sub-42, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-42/trimmed_bold_run1.nii.gz
+19:24:53 [INFO] ✔️ Trimmed run 2 for sub-42, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-42/trimmed_bold_run2.nii.gz
+19:25:05 [INFO] ✔️ Trimmed run 3 for sub-42, length=296, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-42/trimmed_bold_run3.nii.gz
+19:25:16 [INFO] ✔️ Trimmed run 4 for sub-42, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-42/trimmed_bold_run4.nii.gz
+19:25:27 [INFO] ✔️ Trimmed run 5 for sub-42, length=295, output saved to /scratch/nbe/prevent/Baran/Codes/trimmed_nifti/sub-42/trimmed_bold_run5.nii.gz
