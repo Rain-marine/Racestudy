@@ -1,0 +1,102 @@
+Freesurfer conversion code
+
+cd /scratch/nbe/prevent/Baran/Codes
+export SUBJECTS_DIR=/scratch/nbe/prevent/Experiment1/Data_BIDS/derivatives/freesurfer
+
+
+----------------------------
+=========ru VS 0==========
+----------------------------
+
+
+----------ALIGN-----------
+
+mri_vol2vol --mov /scratch/nbe/prevent/Baran/Codes/group_results/ru_vs_0_second_level_zmap.nii.gz \
+            --targ $SUBJECTS_DIR/sub-mni/mri/orig.mgz \
+            --regheader \
+            --o group_results_aligned/ru_vs_0_aligned.nii.gz \
+            --no-resample
+
+---------SURFACE LEFT----------
+    
+mri_vol2surf --mov /scratch/nbe/prevent/Baran/Codes/group_results_aligned/ru_vs_0_aligned.nii.gz \
+         --regheader sub-mni \
+         --hemi lh \
+         --o group_results_aligned/lh_ru_0.zmap.mgh \
+         --projfrac 0.5
+                
+                
+---------SURFACE RIGHT---------
+                
+mri_vol2surf --mov /scratch/nbe/prevent/Baran/Codes/group_results_aligned/ru_vs_0_aligned.nii.gz \
+         --regheader sub-mni \
+         --hemi rh \
+         --o group_results_aligned/rh_ru_0.zmap.mgh \
+         --projfrac 0.5
+            
+           
+
+----------------------------
+=========ru VS others==========
+----------------------------
+
+
+----------ALIGN-----------
+
+mri_vol2vol --mov /scratch/nbe/prevent/Baran/Codes/group_results/ru_vs_others_second_level_zmap.nii.gz \
+            --targ $SUBJECTS_DIR/sub-mni/mri/orig.mgz \
+            --regheader \
+            --o group_results_aligned/ru_vs_others_aligned.nii.gz \
+            --no-resample
+
+---------SURFACE LEFT----------
+    
+mri_vol2surf --mov /scratch/nbe/prevent/Baran/Codes/group_results_aligned/ru_vs_others_aligned.nii.gz \
+         --regheader sub-mni \
+         --hemi lh \
+         --o group_results_aligned/lh_ru_others.zmap.mgh \
+         --projfrac 0.5
+                
+                
+---------SURFACE RIGHT---------
+                
+mri_vol2surf --mov /scratch/nbe/prevent/Baran/Codes/group_results_aligned/ru_vs_others_aligned.nii.gz \
+         --regheader sub-mni \
+         --hemi rh \
+         --o group_results_aligned/rh_ru_others.zmap.mgh \
+         --projfrac 0.5
+            
+            
+
+
+----------------------------
+========= ******** ==========
+----------------------------
+
+
+----------ALIGN-----------
+
+mri_vol2vol --mov /scratch/nbe/prevent/Baran/Codes/group_results/others_vs_fi_second_level_zmap.nii.gz \
+            --targ $SUBJECTS_DIR/sub-mni/mri/orig.mgz \
+            --regheader \
+            --o group_results_aligned/others_vs_fi_aligned.nii.gz \
+            --no-resample
+
+---------SURFACE LEFT----------
+    
+mri_vol2surf --mov /scratch/nbe/prevent/Baran/Codes/group_results_aligned/others_vs_fi_aligned.nii.gz \
+         --regheader sub-mni \
+         --hemi lh \
+         --o group_results_aligned/lh_others_fi.zmap.mgh \
+         --projfrac 0.5
+                
+                
+---------SURFACE RIGHT---------
+                
+mri_vol2surf --mov /scratch/nbe/prevent/Baran/Codes/group_results_aligned/others_vs_fi_aligned.nii.gz \
+         --regheader sub-mni \
+         --hemi rh \
+         --o group_results_aligned/rh_others_fi.zmap.mgh \
+         --projfrac 0.5
+            
+           

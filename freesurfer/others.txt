@@ -1,0 +1,27 @@
+========= black vs white=========
+
+
+freeview \
+    -f /scratch/nbe/prevent/Experiment1/Data_BIDS/derivatives/freesurfer/sub-mni/surf/lh.inflated:overlay=/scratch/nbe/prevent/Baran/Codes/group_results_aligned/lh_black_white.zmap.mgh:overlay_threshold=3.0,5.0 \
+    -f /scratch/nbe/prevent/Experiment1/Data_BIDS/derivatives/freesurfer/sub-mni/surf/rh.inflated:overlay=/scratch/nbe/prevent/Baran/Codes/group_results_aligned/rh_black_white.zmap.mgh:overlay_threshold=3.0,5.0
+
+
+
+========= cold vs warm =========
+
+
+freeview \
+    -f /scratch/nbe/prevent/Experiment1/Data_BIDS/derivatives/freesurfer/sub-mni/surf/lh.inflated:overlay=/scratch/nbe/prevent/Baran/Codes/group_results_aligned/lh_cold_warm.zmap.mgh:overlay_threshold=3.0,5.0 \
+    -f /scratch/nbe/prevent/Experiment1/Data_BIDS/derivatives/freesurfer/sub-mni/surf/rh.inflated:overlay=/scratch/nbe/prevent/Baran/Codes/group_results_aligned/rh_cold_warm.zmap.mgh:overlay_threshold=3.0,5.0
+    
+    
+    
+
+========= other vs fi=========
+
+
+freeview \
+    -f /scratch/nbe/prevent/Experiment1/Data_BIDS/derivatives/freesurfer/sub-mni/surf/lh.inflated:overlay=/scratch/nbe/prevent/Baran/Codes/group_results_aligned/lh_others_fi.zmap.mgh:overlay_threshold=3.0,5.0 \
+    -f /scratch/nbe/prevent/Experiment1/Data_BIDS/derivatives/freesurfer/sub-mni/surf/rh.inflated:overlay=/scratch/nbe/prevent/Baran/Codes/group_results_aligned/rh_others_fi.zmap.mgh:overlay_threshold=3.0,5.0
+
+
